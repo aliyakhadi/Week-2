@@ -9,3 +9,5 @@ class Solution(object):
                     count += 1 
         
         return count
+# this code has a time complexity O(n^2)
+# the task was to make an algorithm which works at time O(n) 
